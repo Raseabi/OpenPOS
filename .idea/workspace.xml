@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c09f2cd-abd7-4130-b91e-0ba605380097" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_management/target/classes/org/openpos/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_management/target/classes/org/openpos/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory_management/src/main/java/org/openpos/model/Attribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory_management/src/main/java/org/openpos/model/AttributeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory_management/src/main/java/org/openpos/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory_management/src/main/java/org/openpos/model/PricingAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory_management/src/main/java/org/openpos/model/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory_management/src/main/java/org/openpos/model/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory_management/src/main/java/org/openpos/model/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales_operations/src/main/java/org/openpos/model/Damages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales_operations/src/main/java/org/openpos/model/SalesUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales_operations/src/main/java/org/openpos/model/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_management/src/main/java/org/openpos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales_operations/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sales_operations/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -35,12 +52,18 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/ramohlongoana/Documents/Workspace/OpenPOS",
     "onboarding.tips.debug.path": "/home/ramohlongoana/Documents/Workspace/OpenPOS/Utils/src/main/java/org/openpos/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.openpos.model" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

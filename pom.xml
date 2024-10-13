@@ -12,6 +12,7 @@
         <module>sales_operations</module>
         <module>inventory_management</module>
         <module>reports_and_overcast</module>
+        <module>Utils</module>
     </modules>
 
     <properties>
